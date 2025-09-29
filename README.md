@@ -1,6 +1,6 @@
 ### Hi there 👋 my name is Jacob Penner
 
-I'm a full stack developer at [Ad Hoc](https://adhocteam.us/)
+I'm a full stack developer at [Skin Clique](https://skinclique.com/)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Japenner&count_private=true&show_icons=true&theme=blue-green)
